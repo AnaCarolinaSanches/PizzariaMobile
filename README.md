@@ -1,6 +1,6 @@
 # Projeto PizzariaMobile
 
-# Desenvolvido  por:
+Desenvolvido  por:
 
-# Ana Carolina Sanches
-# Keith Cristina Antunes Lopes
+- Ana Carolina Sanches
+- Keith Cristina Antunes Lopes
